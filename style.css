@@ -1,0 +1,48 @@
+
+.nav-head{
+    background-color: black;
+    color:  
+    #FFD700;
+    text-align: center;
+    height: 100px;
+}
+.nav-head h1{
+    padding-top: 20px;
+text-decoration: underline;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 600;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:black;
+padding-bottom: 2px; 
+}
+
+  
+  li {
+    float: left;
+    padding-top: 2px;
+    padding-bottom: 2px;
+  }
+  li a {
+    display: block;
+   
+    text-align: center;
+    padding: 14px 16px;
+    
+  }  
+  .weapons-categories li{
+    margin:0 15px 0 0;   
+    font-weight: 400;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+  }
+  hr{
+      background-color: #FFD700;
+      height: 1px;
+  }
+ 
